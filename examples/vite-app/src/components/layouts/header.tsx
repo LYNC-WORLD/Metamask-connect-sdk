@@ -28,7 +28,7 @@ export const Header: React.FC = () => {
           <div className="flex flex-1 items-center justify-end gap-4 sm:gap-8">
             <nav>
               <a
-                href="https://github.com/LYNC-WORLD/metamask-connect-sdk/blob/main/README.md"
+                href="https://docs.lync.world/docs/NPM-PACKAGES/metamask-wallet-sdk/"
                 target="_blank"
                 rel="noopener noreferrer"
                 className="flex items-center text-sm md:text-base gap-1 transition-colors hover:text-foreground text-foreground/80"
