@@ -2,6 +2,8 @@
 
 Demo DApp: <https://metamask-example.lync.world/>
 
+NPM Package: <https://www.npmjs.com/package/lync-wallet-sdk>
+
 LYNC MetaMask wallet integration SDK for integrating MetaMask wallets inside any dapp in a few lines of code.
 
 ![image](https://github.com/user-attachments/assets/05dd1769-daf5-4f6b-acb4-5e32f2340413)
